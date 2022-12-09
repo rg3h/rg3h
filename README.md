@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rg3h
-- 👀 I’m interested in AR, new models for the web/information, creating spaces for collaboratting on interesting challenges
-- 🌱 I’m currently learning the nuances of AWS, how to bring together diverse, creative people on important problems
-- 💞️ I’m looking to collaborate on AR, new models for information and the web
-- 📫 How to reach me -- find my email and say hi
+- 👋 Hi, I’m @rg3h. I am a mad scientist. I've worked at google, NASA (Mars mission), Xerox PARC, and a successful start up.
+- ✨ My background is in HCI/UX, information interaction, data visualization, front end engineering, system architecture.
+- 👀 I’m interested in AR, data visualizations, and generally discussing/collaborating on interesting problems.
+- 📫 Find my email and say hi if you want to talk about AR or an interesting problem (e.g. climate change, feeding people, better healthcare, robots!).
 
 <!---
 rg3h/rg3h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
