@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rg3h. I am a mad scientist. I've worked at google, Tableau, NASA (Mars mission!), Xerox PARC, and even a successful start up.
+- 👋 Hi, I’m @rg3h. I am a mad scientist. I've worked at google, tableau, NASA (Mars mission!), xerox PARC, and even a successful start up.
 
 
 - ✨ My Ph.D. is in realtime interactive 3D graphics and HCI. I have worked on a lot of projects including information interaction, data visualization, VR/AR, phones, television, travel, genetics, and healthcare. My work has been all over, from Mars to Google I/O. 
