@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rg3h. I've worked at google X, google research, tableau, NASA, PARC, HP, IBM, and a successful start up.
+- 👋 Hi, I’m @rg3h. I've worked at google, tableau, NASA, PARC, HP, IBM, SGI, and a successful start up.
 
 
 - ✨ My Ph.D. is in realtime interactive 3D graphics and Human Computer Interaction (HCI). I have worked on many different projects including information interaction, data visualization, VR/AR, retail of the future, mobile devices, television, interactive public displays, travel, genetics, and healthcare. I've launched products, run labs, worked on a Mars mission, had my work presented at google I/O and google all hands.
