@@ -7,7 +7,7 @@
 - 👀 I enjoy rapid prototyping and collaborating on small teams. I’m currently working on a "next web" model for information gathering, organizing, presenting and sharing (GOPS). I am interested in challenging problems using novel human-centric approaches, then prototyping and iterating to continuously improve as we learn. I've researched, developed, and launched a number of products using this mixed methodology. It is a lot of fun!
 
 
-- 📫 Happy to talk more if you are interested in challenging problems (e.g. climate change, the next web, healthcare, AR, creative designs, etc).
+- 📫 Happy to talk more if you are interested in these or other challenging topics!
 
 <!---
 rg3h/rg3h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
