@@ -7,7 +7,7 @@
 - 👀 I enjoy rapid prototyping, tool-building, exploring, designing, and building future human-centered architectures. I've researched, developed, and launched a number of products using this rapid experiment-and-iterate methodology. 
 
 
-- 📫 Happy to talk about interesting future challenges in human-computer technology!
+- 📫 Happy to talk about interesting/challenging/better futures in human-computer technology!
 
 <!---
 rg3h/rg3h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
