@@ -4,10 +4,10 @@
 - ✨ My Ph.D. is in Human Computer Interaction (HCI) and realtime interactive 3D graphics. I have worked on many different projects including information interaction, data visualization, VR/AR, retail of the future, mobile devices, television, interactive public displays, travel, genetics, and healthcare. I've launched products, run labs, worked on a Mars mission, had my work presented at google I/O and at google all hands.
 
 
-- 👀 I enjoy rapid prototyping and collaborating on small teams. I’m currently working on a "next web" model for information gathering, organizing, presenting and sharing (GOPS). I am interested in challenging problems using novel human-centric approaches, then prototyping and iterating to continuously improve as we learn. I've researched, developed, and launched a number of products using this mixed methodology. It is a lot of fun!
+- 👀 I enjoy rapid prototyping, tool-building, exploring, designing, and building future human-centered architectures. I've researched, developed, and launched a number of products using this rapid experiment-and-iterate methodology. 
 
 
-- 📫 Happy to talk more if you are interested in these or other challenging topics!
+- 📫 Happy to talk about interesting future challenges in human-computer technology!
 
 <!---
 rg3h/rg3h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
