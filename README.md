@@ -7,8 +7,7 @@
 - 👀 I enjoy rapid prototyping, tool-building, and exploring the future by designing and building human-centered architectures.
 
 
-- 📫 I'm happy to talk about all things in science. I used to surf, so that's fun to talk about too!
-
+- 📫 Feel free to reach out
 <!---
 rg3h/rg3h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
